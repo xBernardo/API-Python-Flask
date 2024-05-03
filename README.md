@@ -1,0 +1,1 @@
+Na pasta contém uma API simples em Python usando Flask. As funcionalidades são simples e essenciais e uma estrutura clara. Utilizei JSON para a troca de dados e o Postman para testes rápidos. Inspirado por uma série de livros sobre programação e design de APIs, consegui desenvolver uma solução eficiente que atende bem às necessidades básicas de integração de sistemas.
